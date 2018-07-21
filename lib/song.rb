@@ -18,5 +18,6 @@ class Song
     else
       self.artist.name
       learn
+    end
   end
 end
